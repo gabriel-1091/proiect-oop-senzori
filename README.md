@@ -1,9 +1,10 @@
 Proiect POO – Documentație
 
 Acest proiect își propune să realizeze gestiunea profilelor senzorilor IoT dedicați măsurării calității apei potabile dintr-un sistem asemănător rețelei publice de alimentare cu apă pe baza mai multor indicatori.
+
 În acest exemplu, vom lucra cu două categorii de senzori IoT: standard și premium (derivati din cei standard, având funcționalități extra) - amplasați în diverse locații/cartiere din București.
 
-    Senzorii STANDARD rețin informații referitoare la:
+Senzorii STANDARD rețin informații referitoare la:
 - id (unic pentru fiecare senzor)
 - denumirea producătorului 
 - nr. de măsurători al valorilor pH-ului apei
